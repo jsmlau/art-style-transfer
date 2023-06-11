@@ -32,4 +32,5 @@ that preserves the content structure of the content image while adopting the art
    structure of the content image with the artistic style of the style image.
 
 
-<img src="https://github.com/jsmlau/art-style-transfer/blob/main/output_images/cat_starry_night.jpg?raw=true"  height="300">
+<img src="https://github.com/jsmlau/art-style-transfer/blob/main/content_images/cat.jpg"  height="200"> <img src="https://github.com/jsmlau/art-style-transfer/blob/main/styles_images/starry_night.jpg?raw=true"  height="300">
+<img src="https://github.com/jsmlau/art-style-transfer/blob/main/output_images/cat_starry_night.jpg?raw=true"  height="200">
